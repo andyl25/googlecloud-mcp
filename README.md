@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for Google Cloud services including Logging, Spanner, Monitoring, and Cloud Trace.
 
+<a href="https://glama.ai/mcp/servers/@andyl25/googlecloud-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@andyl25/googlecloud-mcp/badge" alt="Google Cloud Server MCP server" />
+</a>
+
 ## Features
 
 - **Google Cloud Logging**: Query logs, list log entries, and search across different log sources
@@ -283,4 +287,3 @@ pnpm format
 ## License
 
 MIT License - see LICENSE file for details.
-
